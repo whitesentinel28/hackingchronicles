@@ -38,7 +38,7 @@ Our complete episode collection is available across all major platforms:
 
 ## 🗣️ Available Languages
 
-- 🇰🇷 **Korean** (Original)
+- 🇰🇷 **Korean**
 - 🇺🇸 **English** 
 - 🇪🇸 **Spanish**
 - 🇧🇷 **Portuguese** 
