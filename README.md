@@ -28,8 +28,8 @@ Our complete episode collection is available across all major platforms:
 
 | Episode | Title | Year | Status |
 |---------|-------|------|--------|
-| EP01 | The Birth of First Virus - Morris Worm | 1988 | ✅ Available |
-| EP02 | Love Letter That Stopped the World - ILOVEYOU | 2000 | ✅ Available |
+| EP01 | The Birth of First Virus - Morris Worm | 1988 | 🎬 In Production |
+| EP02 | Love Letter That Stopped the World - ILOVEYOU | 2000 | 🎬 In Production |
 | EP03 | The Ghost in the Machine - Kevin Mitnick | 1995 | 🎬 In Production |
 | EP04 | Digital Nuclear Weapon - Stuxnet | 2010 | 📝 Script Ready |
 | EP05 | First Cyber War - Estonia Attack | 2007 | 📋 Planned |
